@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Saurav Sthapit
+
+* PhD projects
+1) [[https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/using-wearable-sensors-for-analysing-awkward-postures-in-construction-workers-coventry-led/]]
+2) [[https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/using-computer-vision-technologies-for-analysing-awkward-postures-in-construction-workers/]]
+3) [[https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/ai-iost-artificial-intelligence-towards-reliable-resilient-and-timely-internet-of-space-things/]]
