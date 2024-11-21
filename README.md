@@ -32,7 +32,10 @@ In alignment with the United Nations' Sustainable Development Goal 9, my researc
 
 # PhD students
 1) Ihsan Ul Haq (https://pureportal.coventry.ac.uk/en/persons/ihsan-ul-haq)
-2) Levi
+2) Cong Zhou (Levi) (https://pureportal.coventry.ac.uk/en/persons/cong-zhou)
+3) Kartik (https://pureportal.coventry.ac.uk/en/persons/kartik-kartik) 
+4) Sokipriala Jonah (https://pureportal.coventry.ac.uk/en/persons/sokipriala-solomon-jonah)
+
 
 # Latest Publications
 Resilient Machine Learning: Advancement, Barriers, and Opportunities in the Nuclear Industry
