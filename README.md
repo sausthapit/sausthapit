@@ -36,7 +36,14 @@ In alignment with the United Nations' Sustainable Development Goal 9, my researc
 3) Kartik (https://pureportal.coventry.ac.uk/en/persons/kartik-kartik) 
 4) Sokipriala Jonah (https://pureportal.coventry.ac.uk/en/persons/sokipriala-solomon-jonah)
 
+# MSc students
+1) Ali Zia Uddin (https://www.linkedin.com/in/ali-zia-uddin/)
+2) Syed Muzammil Ahmed Rizvi (https://www.linkedin.com/in/syed-muzammil-ahmed-rizvi-a29b69118/)
 
 # Latest Publications
+
+Adaptive Retransmission for Wireless Sensor Nodes Under Bursty Error Conditions
+Jonah, S. S., Yoo, S. & Sthapit, S., 15 Jul 2024, 5th International Conference on Smart Sensors and Applications (ICSSA). IEEE, Vol. (In-Press). p. (In-Press)
+
 Resilient Machine Learning: Advancement, Barriers, and Opportunities in the Nuclear Industry
 Khadka, A., Sthapit, S., Epiphaniou, G. & Maple, C., Sept 2024, In: ACM Computing Surveys. 56, 9, 29 p., 224.
